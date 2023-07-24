@@ -1,0 +1,108 @@
+*{
+    margin: 10;
+}
+body{
+    background-image: url("img/background.png");
+    background-size: cover;
+     background-repeat: no-repeat;
+     background-position: center;
+     background-attachment: fixed;
+     font-family: 'Montserrat', sans-serif;
+     color: #807769;
+     font-weight: medium;
+     font-size: 100%;
+     text-align:center;
+}
+main{
+    border-radius: 15px;
+    background-color: #009D87;
+    margin: 20px 60px 20px 60px;
+    width: 90%;
+    height: calc(100vh - 200px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section{
+    background-image: url("img/img\ 2.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 15px;
+    background-color: #009D87;
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+aside{
+    border-radius: 15px;
+    background-color: #F5F5F5;
+    width: 60%;
+    height: 100%;
+}
+.title {
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    margin: 0;
+  }
+/* Subheading */
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #423F3A;
+    font-weight: medium;
+  }
+  #myTextEdit, #capturedData, #rsl {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+	background: #EBE9E9;
+	border: 20px;
+    margin: 5px;
+	box-sizing: border-box;
+	height: 80px;
+	overflow-x: hidden;
+	overflow-y: auto;
+	padding: 8px;
+	resize: none;
+	width: 80%;
+}
+input.custom-input {
+    width: 200px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 100%;
+    background: #FFFFFF;
+    border: 1px solid #dad9d7;
+    margin: 10px;
+    box-sizing: content-box;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    transition: 500ms;
+    text-align:center
+}
+
+.btn {
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    display: inline;
+    border: none;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+    background-color: #009D87;
+    margin: 10px;
+    margin-left: 3px;
+    height: 41px;
+    width: 150px;
+    cursor: pointer;
+    transition: background-color 0.5s, color 0.5s;
+}
+
+.btn:hover {
+    background-color: #016a5c; /*Cambo de color al pasar el mouse sobre el botón*/
+}
