@@ -1,6 +1,6 @@
 import cipher from './cipher.js';
 
-console.log(cipher);
+ 
 
 // Variables para almacenar el texto capturado y la referencia al elemento HTML
 const cajaTextoCapturada = document.getElementById('capturedData');
@@ -9,9 +9,9 @@ const cajaTextoCapturada = document.getElementById('capturedData');
 const cifrarTexto = () => {
   const texto = document.getElementById('myTextEdit').value;
   const numero = parseInt(document.getElementById('myNumberInput').value);
-  const textoCifrado = cipher.encode(texto, numero);
+  const textoCifrado = cipher.encode(numero, texto);
 
-  console.log(textoCifrado);
+  
   cajaTextoCapturada.value = textoCifrado;
 };
 
@@ -19,9 +19,9 @@ const cifrarTexto = () => {
 function decodificarTexto() {
   const texto = document.getElementById('myTextEdit').value;
   const numero = parseInt(document.getElementById('myNumberInput').value);
-  const textoDecodificado = cipher.decode(texto, numero);
+  const textoDecodificado = cipher.decode(numero, texto); // Utiliza el valor opuesto de numero al descifrar
 
-  console.log(textoDecodificado);
+
   cajaTextoCapturada.value = textoDecodificado;
 }
 
