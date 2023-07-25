@@ -3,7 +3,7 @@
 
 ## 1. ¿Qué hace el proyecto?
 
-El proyecto permite que el usuario ingrese una frase o texto, al escoge el número de desplazamiento (entero, mayor a 0) y al dar clic en cifrar muestra el teto cifrado. Ademas permite realizarlo a la inveresa, es decir, colocar un texto codificado (Cifrado César), escoger el valor de desplazamiento y decifrarlo.
+El proyecto permite que el usuario ingrese una frase o texto, al escoger el número de desplazamiento (entero, mayor a 0) y al dar clic en cifrar muestra el texto cifrado. Además permite realizarlo a la inversa, es decir, colocar un texto codificado (Cifrado César), escoger el valor de desplazamiento y descifrarlo.
 
 ### ¿Qué significa cifrar y descifrar?
 
