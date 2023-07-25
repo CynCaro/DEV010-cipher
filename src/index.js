@@ -1,7 +1,5 @@
 import cipher from './cipher.js';
 
- 
-
 // Variables para almacenar el texto capturado y la referencia al elemento HTML
 const cajaTextoCapturada = document.getElementById('capturedData');
 
