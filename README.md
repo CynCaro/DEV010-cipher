@@ -55,17 +55,17 @@ Esperamos que puedas sacarle el mayor provecho.
 
 Creé un tablero en FigmaJam para aterrizar y desmenuzar los puntos que tenía que seguir (acciones, preguntas y objetivos).
 
-![Planeación](img/Screnshots/Sprint Planning Cipher.jpeg)
+![Planeación](src/img/Screnshots/Sprint Planning Cipher.jpeg)
 
 ### Prototipo
 
 Usé la herramienta de Figma para crear un prototipo de alta fidelidad, elegí paleta de colores, imagen vectorizda y secciones:
 
-![Pototipo1](img/Screnshots/prototipo-1.jpeg)
+![Pototipo1](src/img/Screnshots/prototipo-1.jpeg)
 
 Conforme avanzaba fue cambiando la estructura:
 
-![Pototipo2](img/Screnshots/prototipo-2.jpeg)
+![Pototipo2](src/img/Screnshots/prototipo-2.jpeg)
 
 ### Diseño final
 
@@ -73,20 +73,17 @@ El diseño fresco y divertido, la estructura te va guiando a las cajas de texto 
 
 Todo el contenido está dentro de un recuadro centrado, donde se hará el cifrado y descifrado de su contraseña.
 
-![Pototipo final](img/Screnshots/prototipo-final.png)
+![Pototipo final](src/img/Screnshots/prototipo-final.png)
 
 ## 5. Pruebas unitarios de los métodos
 
 `cipher` (`encode` y `decode`) deben tener cobertura con pruebas unitarias:
 
-![Pruebas unitarios](img/Screnshots/pruebas-unitarios.png)
+![Pruebas unitarios](src/img/Screenshots/pruebas-uniarios.png)
 
-Aquí puedes ver el cifrador online:
-
-https://cyncaro.github.io/DEV010-cipher/
+[Aquí](https://cyncaro.github.io/DEV010-cipher/) puedes ver el cifrador online
 
 ## Desarrolladora
 
-Cynthia Carolina Valdez Mtz., en proceso con Laboratoria
-https://www.laboratoria.la/
+Cynthia Carolina Valdez Martínez, en proceso con [Laboratoria](https://www.laboratoria.la/)
 
