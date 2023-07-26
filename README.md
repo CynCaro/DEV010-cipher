@@ -51,13 +51,13 @@ Esperamos que puedas sacarle el mayor provecho.
 
 ## 4. Proceso de maquetación
 
-# Planeación y organización  
+### Planeación y organización  
 
 Creé un tablero en FigmaJam para aterrizar y desmenuzar los puntos que tenía que seguir (acciones, preguntas y objetivos).
 
 ![Planeación](img/Screnshots/Sprint Planning Cipher.jpeg)
 
-# Prototipo
+### Prototipo
 
 Usé la herramienta de Figma para crear un prototipo de alta fidelidad, elegí paleta de colores, imagen vectorizda y secciones:
 
@@ -67,7 +67,7 @@ Conforme avanzaba fue cambiando la estructura:
 
 ![Pototipo2](img/Screnshots/prototipo-2.jpeg)
 
-# Diseño final
+### Diseño final
 
 El diseño fresco y divertido, la estructura te va guiando a las cajas de texto y los botones. fácil de usar. La interfaz es alegre y colorida.
 
