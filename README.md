@@ -61,11 +61,11 @@ Creé un tablero en FigmaJam para aterrizar y desmenuzar los puntos que tenía q
 
 Usé la herramienta de Figma para crear un prototipo de alta fidelidad, elegí paleta de colores, imagen vectorizda y secciones:
 
-![Pototipo1](src/img/Screnshots/prototipo-1.jpeg)
+![Pototipo1](src/img/Screenshots/prototipo-1.jpeg)
 
 Conforme avanzaba fue cambiando la estructura:
 
-![Pototipo2](src/img/Screnshots/prototipo-2.jpeg)
+![Pototipo2](src/img/Screenshots/prototipo-2.jpeg)
 
 ### Diseño final
 
@@ -73,7 +73,7 @@ El diseño fresco y divertido, la estructura te va guiando a las cajas de texto 
 
 Todo el contenido está dentro de un recuadro centrado, donde se hará el cifrado y descifrado de su contraseña.
 
-![Pototipo final](src/img/Screnshots/prototipo-final.png)
+![Pototipo final](src/img/Screenshots/prototipo-final.png)
 
 ## 5. Pruebas unitarios de los métodos
 
